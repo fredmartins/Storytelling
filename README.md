@@ -20,7 +20,7 @@ Soa estranho né, primeiro contato com programação mas não escrevi nenhuma li
 
 No final do ano de 2010 busquei por cursos superiores e técnicos que pudessem ter alguma ligação com programação.
 
-Não conseguir entrar em nenhum dos cursos de tecnologia, mas consegui passar para Tecnologia em Gestão Ambiental no IFSM-Campus Inconfidentes.
+Não consegui entrar em nenhum dos cursos de tecnologia, mas consegui passar para Tecnologia em Gestão Ambiental no IFSM-Campus Inconfidentes.
 
 Fui fazer o tal do curso de Gestão Ambiental, aprendi muito sobre boas práticas de produção, sobre como cuidar dos recursos naturais, a entender o orgânismo que esta sob nossos pés e me conectei de uma forma impressionante com nossa grande Mãe Terra.
 
