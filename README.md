@@ -48,7 +48,7 @@ Me tornei o primeiro produtor de café orgânico em minha cidade, passei a fazer
 
 Após conquistar alguns objetivos na produção orgânica, atuando como coordenador de núcleo de produtores orgânicos, pude perceber que nosso processo de certificação orgânica era um pouco demorado e gerava muito papel, pilhas e mais pilhas de folhas sulfites impressas.
 
-Alguns produtores são muito simples e por conta da rotina tiveram muito pouco tempo para estudar, em alguns casos nunca estudaram, alguuns por não saber ler e escrever, por descuido, acabavam jogando os documentos fora e, quando recebiamos uma visita de verificação era aquela loucura até colocar os pingos nos Is.
+Alguns produtores são muito simples e por conta da rotina tiveram muito pouco tempo para estudar, em alguns casos nunca estudaram, alguns por não saberem ler e escrever, por descuido, acabavam jogando os documentos fora e, quando recebiamos uma visita de verificação era aquela loucura até colocar os pingos nos Is.
 
 Surge ai a ideia de informatizar a Orgânicos Sul de Minas.
 
